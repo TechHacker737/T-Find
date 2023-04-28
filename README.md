@@ -49,7 +49,7 @@ apt-get -y install php unzip git wget
 ```
 git clone https://github.com/techhacker737/T-Find 
 cd T-Find
- bash T-Find.sh
+bash T-Find.sh
 ```
 
 ### Video Demo
