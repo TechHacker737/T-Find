@@ -53,7 +53,7 @@ cd T-Find
 ```
 
 ### Video Demo
-[![T-Find Demo](<iframe width="560" height="315" src="https://www.youtube.com/embed/BR33UiDZJn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+[![T-Find Demo]("https://www.youtube.com/embed/BR33UiDZJn8")
 
 ### For More Video subcribe <a href="http://youtube.com/techhacker7">Tech Hacker YouTube Channel</a>
 <p>T-Find is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
