@@ -10,7 +10,7 @@ printf '           ██     ██      ██  ████  ██  ██  
 printf '           ██ ██  ████    ██  ██ ██ ██  ██   ██    \n'
 printf '           ██     ██      ██  ██  ████  ██   ██    \n'
 printf '           ██     ██      ██  ██   ███  ██████     \n\n'
-printf '\e[1;31m ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n'                                                                                
+printf '\e[1;31m       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n'                                                                                
 printf " \e[1;93m      T-Find Ver 0.1 - by Tech Hacker\e[0m \n"
 printf " \e[1;92m       youtube.com/techhacker7 \e[0m \n"
 printf "\e[1;90m T-Find is a simple and light tool for information gathering and capture GPS coordinates.\e[0m \n"
