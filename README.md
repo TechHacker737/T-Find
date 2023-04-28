@@ -1,4 +1,4 @@
-﻿# T-Find 🐶
+﻿# T-Find ☣️
 
 T-Find is a simple and light tool for information gathering and capture exact GPS coordinates
 
